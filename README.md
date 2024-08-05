@@ -4,6 +4,11 @@
   <img height="400" widht= "300" src="https://github.com/user-attachments/assets/423f5a6a-78f9-48d7-8909-8fa639f8d923"/>
 </div>
 
+<div align="center">
+  <img height="400" widht= "300" src="https://github.com/user-attachments/assets/be0abe85-3342-4f60-9cc0-6f1e5255414f"/>
+  <img height="400" widht= "300" src="https://github.com/user-attachments/assets/5739b4b8-cc4b-42b9-9cc5-bd2b8b528de0"/>
+  
+</div>
 
 # Techs Used
 <div align="left">

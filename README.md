@@ -1,4 +1,4 @@
-<h1 align="center">Login Form<h1/>
+<h1 align="center">Registration Form<h1/>
 
 <div align="center">
   <img height="400" widht= "300" src="https://github.com/user-attachments/assets/423f5a6a-78f9-48d7-8909-8fa639f8d923"/>

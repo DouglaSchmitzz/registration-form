@@ -27,7 +27,7 @@
 
 
 - Contribution are always welcome and recommended! Here is how:
-- Clone https://github.com/YOURLOGIN/registration-form.git
+- Clone https://github.com/DouglaSchmitzz/registration-form.git
 - Make your changes
 - <a href= "https://github.com/DouglaSchmitzz/registration-form/pulls">Create a pull request<a/>
 

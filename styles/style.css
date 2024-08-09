@@ -177,6 +177,7 @@ body {
 
     .container {
         width: 50%;
+        height: 80vh;
     }
 
     .gender-group {
@@ -190,15 +191,15 @@ body {
 
 @media screen and (max-width: 1064px) {
     .container {
-        width: 90%;
-        height: auto;
+        max-width: 60%;
+        height: 80%;
         
     }
     .input-group {
         flex-direction: column;
         overflow-y: scroll;
         flex-wrap: nowrap;
-        max-height: 10rem;
+        max-height: 15rem;
         padding-right: 5rem;
     }
 
@@ -211,6 +212,6 @@ body {
     }
 
     .gender-input {
-        margin-top: 10rem;
+        margin-top: 15px;
     }
 }

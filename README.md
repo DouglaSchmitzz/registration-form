@@ -1,7 +1,7 @@
 <h1 align="center">Registration Form<h1/>
 
 <div align="center">
-  <img height="500" widht= "300" src="https://github.com/user-attachments/assets/423f5a6a-78f9-48d7-8909-8fa639f8d923"/>
+  <img height="500" width= "1010" src="https://github.com/user-attachments/assets/423f5a6a-78f9-48d7-8909-8fa639f8d923"/>
 </div>
 
 <div align="center">
